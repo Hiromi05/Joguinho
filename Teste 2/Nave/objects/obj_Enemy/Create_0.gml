@@ -2,4 +2,4 @@
 
 direction = 270;
 
-speed = 18;
+speed = 15;
